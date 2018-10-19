@@ -328,3 +328,5 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/PROJECT.Entities/Properties
+/PROJECT.Data/Properties
